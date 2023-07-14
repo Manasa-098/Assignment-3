@@ -29,8 +29,8 @@
     color: cornflowerblue;
 }
 
-.display{
-    width:20px;
+input[type=text]{
+    width:100%;
     padding: 20px;
     font-size: 20px;
     font-weight: bolder;
