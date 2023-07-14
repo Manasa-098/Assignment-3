@@ -1,8 +1,11 @@
 * {
-    margin: 0;
-    padding: 27px;
+    margin:auto;
+    padding: 15px;
     font-family: ' poppins', 'sans-serif';
     box-sizing: border-box;
+    width:400px;
+    height:auto;
+    
 }
 
 .container {
